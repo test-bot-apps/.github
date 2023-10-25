@@ -3,8 +3,9 @@
 # 🌈 Config
 https://github.com/test-bot-apps/admin/edit/main/.github/settings.yml
 
-# App
+# 👩‍💻 App
 http://dispatcher-gh.local:3000/probot
+https://github.com/organizations/test-bot-apps/settings/apps/safe-settings-csco-demo
 
 # 🧙 Repo
 https://github.com/github/safe-settings
